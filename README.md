@@ -1,16 +1,24 @@
-### Hi there 👋
+## 🙋🏼 What I Do
 
-<!--
-**mdgta/mdgta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a full-stack developer, currently studying in [Masterschool](https://www.masterschool.com/)'s Web Development program.
 
-Here are some ideas to get you started:
+## 🔥 Deep Passion 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Acquiring new skills and learning about new technologies
+- Working on interesting projects
+- Learning from others about creative ways to approach problems
+
+## 👩🏼‍💻 Tech Stack
+
+- Languages: Typescript & Javascript
+- HTML & CSS
+- Frontend Libraries: React
+- Frontend Frameworks: NextJS
+- Backend: Node & Express
+- Version control: GIT
+- Database: MongoDB
+
+
+## ℹ️ More Info
+
+- [LinkedIn](https://www.linkedin.com/in/mdmx/)
